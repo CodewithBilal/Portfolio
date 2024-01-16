@@ -11,11 +11,11 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/CodewithBilal",
   resume:
-    "https://drive.google.com/file/d/1lKnCcWRibfsJxAJBGNDxY2mAypGI768Z/view?usp=drive_link",
+    "https://drive.google.com/file/d/1lKnCcWRibfsJxAJBGNDxY2mAypGI768Z/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/bilal-ejaz-se/",
-  //twitter: "https://twitter.com/RishavChanda",
-  //insta: "https://www.instagram.com/rishav_chanda/",
-  //facebook: "https://www.facebook.com/rishav.chanda.165/",
+  //twitter: "",
+  //insta: "",
+  //facebook: "",
 };
 
 export const skills = [
