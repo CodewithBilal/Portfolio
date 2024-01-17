@@ -2,7 +2,7 @@
  
   "name": "bilal-Ejaz-portfolio",
   "version": "0.1.0",
-  "homepage": "https://CodewithBilal.github.io/Portfolio",
+  "homepage": "https://CodewithBilal.github.io/Bilal_Portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
