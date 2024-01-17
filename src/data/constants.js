@@ -342,7 +342,7 @@ export const projects = [
       "Executed a project on solar energy consumption, leveraging a building dataset to predict future changes in energy consumption.",
     image:
       "https://images.pexels.com/photos/9799994/pexels-photo-9799994.jpeg",
-    tags: ["Python", "Linear Regression","Rain Forest","LSTM", "Seaborn", "Numpy", "Pandas"],
+    tags: ["Python", "Linear Regression(LR)","Rain Forest","LSTM", "Seaborn", "Numpy", "Pandas"],
     category: "machine learning",
     //github: "https://github.com/CodewithBilal/Python/blob/main/Machine%20learning/SVM.ipynb",
     //webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
