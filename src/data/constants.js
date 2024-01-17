@@ -339,7 +339,7 @@ export const projects = [
     title: "Energy Consumption",
     date: "Jan 2023",
     description:
-      "Executed a project on solar energy consumption, leveraging a building dataset to predict future changes in energy consumption..",
+      "I did a project on solar energy consumotion by using a buliding dataset and also predict future energy consumption.",
     image:
       "https://images.pexels.com/photos/9799994/pexels-photo-9799994.jpeg",
     tags: ["Python", "Linear Regression","Rain Forest","LSTM", "Seaborn", "Numpy", "Pandas"],
