@@ -11,11 +11,11 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/CodewithBilal",
   resume:
-    "https://drive.google.com/file/d/1lKnCcWRibfsJxAJBGNDxY2mAypGI768Z/view?usp=drive_link",
+    "https://drive.google.com/file/d/1a-YBAsErORM77M592oD0xoF11-e2EkDj/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/bilal-ejaz-se/",
-  //twitter: "https://twitter.com/RishavChanda",
-  //insta: "https://www.instagram.com/rishav_chanda/",
-  //facebook: "https://www.facebook.com/rishav.chanda.165/",
+  //twitter: "",
+  //insta: "",
+  //facebook: "",
 };
 
 export const skills = [
@@ -170,7 +170,7 @@ export const education = [
     school: "University of Central Punjab",
     date: "Oct 2019 - July 2023",
     grade: "3.22/4 CGPA",
-    desc: "I did my Bachelors in Software Engineering from University of Cental Punjab.I gained my knowledge in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Freelance Force at UCP, where I am learning and working on exciting projects with a team of talented developers.",
+    desc: "Acquired knowledge in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks. Engaged as a member of the Freelance Force at UCP, collaboratively learning and contributing to exciting projects with a team of talented developers.",
     degree: "Bachelor of Software Engineering",
   },
   {
@@ -179,7 +179,7 @@ export const education = [
     school: "Punjab Group of Colleges",
     date: "Aug 2017 - Sep 2019",
     grade: "A",
-    desc: "I studied FSC pre engineering from Punjab group of Colleges with A Grade.",
+    desc: "Achieved an A Grade in FSC Pre-Engineering from Punjab Group of Colleges.",
     degree: "FSC Pre Engineering",
   },
   {
@@ -188,7 +188,7 @@ export const education = [
     school: "Usman Science School",
     date: "Apr 2015 - Apr 2017",
     grade: "A",
-    //desc: "I studied FSC pre engineering from Punjab group of Colleges with A Grade.",
+    desc: "Achieved an A Grade in Matric from Usman Science School.",
     degree: "Matric",
   },
 ];
@@ -241,7 +241,7 @@ export const projects = [
     title: "Liver Patient Detection",
     date: "Jan 2023 - Mar 2023",
     description:
-      "	Performed different algorithms related to machine learning on dataset attributes to get the best accuracy and boost its scalability, reliability and efficiency.",
+      "Performed different algorithms related to machine learning on dataset attributes to get the best accuracy and boost its scalability, reliability and efficiency.",
     image:
       "https://images.pexels.com/photos/6476587/pexels-photo-6476587.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     tags: ["Python","Random Forest"],
@@ -301,7 +301,7 @@ export const projects = [
     title: "Music Recomendation System",
     date: "Jan 2023",
     description:
-      "I did a project on music recomendation system by using NearestNeighbors.",
+      "Implemented a music recommendation system project utilizing Nearest Neighbors methodology.",
     image:"https://images.pexels.com/photos/18452255/pexels-photo-18452255/free-photo-of-paper-sheets-with-music-notes.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     tags: ["Python", "NearestNeighbors", "Seaborn", "Numpy", "Pandas"],
     category: "machine learning",
@@ -313,7 +313,7 @@ export const projects = [
     title: "House Prices",
     date: "Jan 2023",
     description:
-      "I did a project on House Prices by using SLR.",
+      "Implemented a project on House Prices by using Simple Linear Regression(SLR).",
     image:
       "	https://cdn-icons-png.flaticon.com/512/86/86253.png",
     tags: ["Python", "SLR", "Seaborn", "Numpy", "Pandas"],
@@ -326,7 +326,7 @@ export const projects = [
     title: "Pulsar Stars",
     date: "Jan 2023",
     description:
-      "I did a project on Pulsar Stars by using SVM.",
+      "Implemented a project on Pulsar Stars by using SVM.",
     image:
       "https://images.pexels.com/photos/177598/pexels-photo-177598.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     tags: ["Python", "SVM", "Seaborn", "Numpy", "Pandas"],
@@ -339,7 +339,7 @@ export const projects = [
     title: "Energy Consumption",
     date: "Jan 2023",
     description:
-      "I did a project on solar energy consumotion by using a buliding dataset and also predict future energy consumption.",
+      "Executed a project on solar energy consumption, leveraging a building dataset to predict future changes in energy consumption..",
     image:
       "https://images.pexels.com/photos/9799994/pexels-photo-9799994.jpeg",
     tags: ["Python", "Linear Regression","Rain Forest","LSTM", "Seaborn", "Numpy", "Pandas"],
