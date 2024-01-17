@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.bf538fe7.css",
-    "main.js": "/Portfolio/static/js/main.47f26711.js",
-    "static/media/b1.png": "/Portfolio/static/media/b1.5fe450de80de5b303a50.png",
-    "index.html": "/Portfolio/index.html",
-    "main.bf538fe7.css.map": "/Portfolio/static/css/main.bf538fe7.css.map",
-    "main.47f26711.js.map": "/Portfolio/static/js/main.47f26711.js.map"
+    "main.css": "/Bilal_Portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/Bilal_Portfolio/static/js/main.6b265fad.js",
+    "static/media/b1.png": "/Bilal_Portfolio/static/media/b1.5fe450de80de5b303a50.png",
+    "index.html": "/Bilal_Portfolio/index.html",
+    "main.bf538fe7.css.map": "/Bilal_Portfolio/static/css/main.bf538fe7.css.map",
+    "main.6b265fad.js.map": "/Bilal_Portfolio/static/js/main.6b265fad.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.47f26711.js"
+    "static/js/main.6b265fad.js"
   ]
 }
